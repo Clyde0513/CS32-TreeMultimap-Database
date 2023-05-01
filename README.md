@@ -1,4 +1,4 @@
-# CS32-TreeMultimap-Database
+#TreeMultimap-Database
 Similar to Netflix Recommendation where it recommends movies for you; it can look up a movie/user in 1.5 seconds!
 ### Movie Database ###
   ---> it reads and collects data from the movies.txt and you can search for any movie you like in under few seconds
